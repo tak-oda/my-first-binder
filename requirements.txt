@@ -7,3 +7,4 @@ pyomo>=6.5.0
 ipywidgets>=7.6.5
 ipython>=8.10.0
 matplotlib>=3.7.0
+ipylab>=0.7.1
